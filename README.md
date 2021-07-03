@@ -1,1 +1,1 @@
-# Simple page to collect my customer email for marketing my products 
+# Simple page to collect my customers emails for marketing my products 
